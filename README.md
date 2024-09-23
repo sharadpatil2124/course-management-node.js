@@ -1,1 +1,1 @@
-Course management project using node.js and mongoose .
+Course management project using node.js and Mongoose .
